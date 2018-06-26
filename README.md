@@ -1,2 +1,2 @@
-# Doble-Factor-de-Autenticaci-n
+# Doble-Factor-de-Autenticacion
 Howto para activar el doble factor de autenticación en ssh
